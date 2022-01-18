@@ -1,0 +1,24 @@
+body {
+	font-size: 20px;
+	text-align: justify;
+}
+th {
+	font-weight: normal;
+}
+
+.prop {
+	font-style: italic;
+}
+
+.prop-high {
+	font-weight: bold;
+	color: green;
+}
+.prop-med-high {
+	font-weight: bold;
+	color: #88cc88
+}
+.prop-med {
+	font-weight: bold;
+	color: orange;
+}
